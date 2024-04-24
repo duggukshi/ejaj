@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    color: white;
+    transition: all 0.2s linear;
+}
+
+div.cont{
+    height: 350px;
+    width: 200px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: black;
+}
+div input{
+    height: 40px;
+    width: 200px;
+    border: none;
+    margin-top: 50px;
+    background-color: black;
+    font-size: 30px;
+}
+div input:hover{
+    cursor: not-allowed;
+}
+div button{
+    margin-top: 10px;
+    height: 40px;
+    width: 40px;
+    border: none;
+    border-radius: 50%;
+    line-height: 0;
+    font-size: 18px;
+}
+div button:hover{
+    filter: brightness(2);
+    cursor: pointer;
+
+}
+div .button-box{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    padding-left: 8px;
+    
+}
+div.a button{
+    margin-right: 6px;
+    background-color: rgb(189, 186, 181);
+    color: black;
+}
+div.b button{
+    margin-right: 5.5px;
+    background-color: rgb(189, 186, 181);
+    color: black;
+}
+div.c button{
+    margin-right: 5.5px;
+    background-color: rgb(189, 186, 181);
+    color: black;
+}
+div.d button{
+    margin-right:5.55px;
+    background-color: rgb(253, 144, 1);
+}
+div.e button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}
+div.f button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}
+div.g button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}
+div.h button{
+    margin-right: 5.5px;
+    background-color: rgb(253, 144, 1);
+}
+div.i button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}
+div.j button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}
+div.k button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}
+div.l button{
+    margin-right: 5.5px;
+    background-color: rgb(253, 144, 1);
+}
+div.m button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}
+div.n button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}div.o button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}div.p button{
+    margin-right: 5.5px;
+    background-color: rgb(253, 144, 1);
+}div.q button{
+    margin-right: 5.5px;
+    width: 85px;
+    border-radius: 40px;
+    background-color: rgba(49, 52, 57, 0.996);
+}div.r button{
+    margin-right: 5.5px;
+    background-color: rgba(49, 52, 57, 0.996);
+}div.s button{
+    margin-right: 5.5px;
+    background-color: rgb(253, 144, 1);
+}
